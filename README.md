@@ -28,7 +28,7 @@ Retrieved 2026-09-11, License - CC BY-SA 3.0
   background-image: url(theJPGurl); /
 
 }
-
+</script>
 
 
 <div align="center">
