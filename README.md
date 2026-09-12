@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on front-end<br>👯 I’m looking to collaborate on project<br>🌱 I’m currently learning java and c#<br>💬 Ask me about<br>
-
-## 🐍 Snake Game
-
-<img width="100%" alt="Cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif">
+🔭 atualmente estudo Engenharia de software<br>👯 procuro projetos para contribuir <br>🌱estou focando em java e c## <br>💬 Ask me about<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wesleygoncalves098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-damasio-228546224/) 
@@ -17,3 +13,5 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=wesleysilva02&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Snake Game
+<img width="100%" alt="Cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif">
