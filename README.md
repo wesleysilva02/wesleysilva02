@@ -5,7 +5,9 @@
 
 Minha cobrinha percorre o gráfico de contribuições e come os commits:
 
-![Animação da cobrinha comendo as contribuições do GitHub](https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif)
+<img width="100%" alt="Cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif">
+
+> A animação é atualizada automaticamente pela GitHub Action quando existem contribuições no gráfico do perfil.
 
 
 ## 🌐 Socials:
@@ -20,5 +22,4 @@ Minha cobrinha percorre o gráfico de contribuições e come os commits:
 
 ---
 [![](https://komarev.com/ghpvc/?username=wesleysilva02&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
