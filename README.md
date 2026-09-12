@@ -1,6 +1,18 @@
 # 💫 About Me:
 🔭 I’m currently working on front-end<br>👯 I’m looking to collaborate on project<br>🌱 I’m currently learning java and c#<br>💬 Ask me about<br>
 
+## 🐍 Snake Game
+
+Minha cobrinha percorre o gráfico de contribuições e come os commits:
+
+![Snake animation](https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wesleygoncalves098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wesleydamasio) 
@@ -14,7 +26,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=wesleysilva02&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 
