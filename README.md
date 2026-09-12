@@ -7,11 +7,7 @@ Minha cobrinha percorre o gráfico de contribuições e come os commits:
 
 ![Snake animation](https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="Animação da cobrinha comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.svg">
 
 
 ## 🌐 Socials:
@@ -26,7 +22,6 @@ Minha cobrinha percorre o gráfico de contribuições e come os commits:
 
 ---
 [![](https://komarev.com/ghpvc/?username=wesleysilva02&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 
