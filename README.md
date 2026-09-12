@@ -5,9 +5,6 @@
 
 <img width="100%" alt="Cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif">
 
-> A animação é atualizada automaticamente pela GitHub Action quando existem contribuições no gráfico do perfil.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wesleygoncalves098) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wesleydamasio) 
 
