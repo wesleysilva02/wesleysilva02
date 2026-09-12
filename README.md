@@ -3,8 +3,6 @@
 
 ## 🐍 Snake Game
 
-Minha cobrinha percorre o gráfico de contribuições e come os commits:
-
 <img width="100%" alt="Cobrinha percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/wesleysilva02/wesleysilva02/output/github-contribution-grid-snake.gif">
 
 > A animação é atualizada automaticamente pela GitHub Action quando existem contribuições no gráfico do perfil.
